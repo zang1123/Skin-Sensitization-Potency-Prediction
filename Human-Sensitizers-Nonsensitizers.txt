@@ -1,0 +1,98 @@
+ChemicalName	CASRN	MW	LogP	LogS	LogVP	MP	BP	Lys	Cys	avg-Lys-Cys	DPRA	hCLAT	Keratino	OECD	PosNeg	Training/Test
+4-Methoxyacetophenone	100-06-1	150.17	1.74	-1.784	-2.191	38.5	258	-0.1	1.6	0.7	0	0	1	1	Neg	Training
+Benzaldehyde	100-52-7	106.12	1.48	-1.208	0.104	-26	179	0	7.2	3.6	0	1	1	0	Neg	Training
+Cyclamen aldehyde 	103-95-7	190.29	3.40	-3.460	-2.648	16.77	234	1	18.9	9.95	1	0	1	1	Neg	Training
+Chlorobenzene	108-90-7	112.56	2.84	-2.354	1.078	-45.2	131.7	1.3	0.4	0.85	0	1	0	0	Neg	Training
+Hexane	110-54-3	86.18	3.90	-3.958	2.180	-95.3	68.7	1.3	-0.5	0.43	0	0	1	0	Neg	Training
+Methyl salicylate	119-36-8	152.15	2.55	-1.313	-1.465	-8	222.9	1.6	0.4	3.15	0	0	0	0	Neg	Training
+Benzyl benzoate	120-51-4	212.25	3.97	-4.139	-3.650	21	323.5	3	0.2	1.6	0	0	1	1	Neg	Training
+Ethyl vanillin 	121-32-4	166.18	1.58	-1.771	-4.984	77.5	294	9.7	1.1	5.4	0	0	1	1	Neg	Training
+Sulfanilic acid	121-57-3	173.19	-2.16	-1.206	-6.695	288	300	0.5	5.3	2.9	0	0	0	0	Neg	Training
+Octanoic acid	124-07-2	144.21	3.05	-2.262	-2.431	16.3	239	0.9	0	0.45	0	1	0	0	Neg	Training
+Xylene	1330-20-7	106.08	3.16	-3.001	0.9025	-47	138.5	0.2	0.4	0.3	0	0	0	0	Neg	Training
+Sodium  lauryl sulfate	151-21-3	288.38	1.60	-0.460	-12.328	205.5	216	48.5	0	24.25	1	0	0	0	Neg	Training
+Lactic acid	50-21-5	90.08	-0.72	1.045	-1.089	18	204.2	-0.2	1.5	0.6	0	0	0	0	Neg	Training
+Glycerol	56-81-5	92.09	-1.76	1.036	-3.775	18.2	290	0.8	1.2	0.95	0	0	0	0	Neg	Training
+Isopropanol	67-63-0	60.10	0.05	1.221	1.657	-89.5	82.3	0.5	1.2	0.82	0	0	0	0	Neg	Training
+Salicylic acid	69-72-7	138.12	2.26	-1.790	-4.086	158	211	1	4.3	4.12	0	1	0	0	Neg	Training
+1-Butanol	71-36-3	74.12	0.88	-0.069	0.826	-89.8	117.7	-0.1	0.2	0.1	0	1	0	0	Neg	Training
+Benzalkonium chloride	8001-54-5	283.88	1.68	-5.94	-11.452	241	384.54	0	2.8	1.4	0	0	0	0	Neg	Training
+Diethyl phthalate	84-66-2	222.24	2.42	-2.313	-2.678	-40.5	295	0	0.8	0.4	0	1	0	0	Neg	Training
+6-Methylcoumarin	92-48-8	160.17	2.06	-2.130	-3.291	76.5	304	1	-0.2	0.4	0	0	1	0	Neg	Training
+2-Methoxy-4-methylphenol	93-51-6	138.16	1.88	-1.820	-1.620	5.5	221	11.5	0	7.1	1	1	0	1	Neg	Training
+Benzyl bromide	100-39-0	171.03	2.92	-2.648	-0.347	-3	201	22.1	100	62	1	1	1	1	Pos	Training
+Cinnamyl alcohol	104-54-1	134.18	1.95	-1.336	-1.620	33	250	6.4	10.7	9.6	1	1	1	1	Pos	Training
+Cinnamic aldehyde	104-55-2	132.16	1.90	-1.969	-1.539	-8	246	46.6	68.8	57.8	1	1	1	1	Pos	Training
+Geraniol	106-24-1	154.25	3.56	-3.188	-1.523	-15	230	10	0	2.5	0	1	1	1	Pos	Training
+4-Phenylenediamine	106-50-3	108.14	-0.30	-0.466	-2.301	146	267	26.5	93	58.3	1	1	1	1	Pos	Training
+Benzoquinone	106-51-4	108.10	0.20	-0.989	-1.046	116	180	91	99	95	1	1	1	1	Pos	Training
+Glyoxal	107-22-2	58.04	-1.66	1.236	2.407	15	50.4	67.8	56.5	62.15	1	1	1	1	Pos	Training
+Hydroxycitronellal	107-75-5	172.26	2.11	-1.753	-2.237	23	241	14.6	32.9	23.8	1	1	1	1	Pos	Training
+Maleic anhydride	108-31-6	98.06	1.62	-1.300	-0.602	52.8	202	41	100	59.4	1	1	1	1	Pos	Training
+3-Dimethylaminopropylamine	109-55-7	102.18	-0.45	0.991	1.000	-60	133	0	10.2	4.5	0	1	1	1	Pos	Training
+Glutaraldehyde 	111-30-8	100.12	-0.18	0.222	-0.222	-14	188	85.4	30.2	57.8	1	1	1	1	Pos	Training
+Methyl 2-nonynoate	111-80-8	168.24	3.10	-3.072	-1.126	38	224.5	3.2	100	51.6	1	1	1	1	Pos	Training
+"3,3, 4,5-Tetrachlorosalicylanilide"	1154-59-2	351.02	5.87	-6.341	-9.523	161	488.1	9	36.8	22.9	1	1	1	1	Pos	Training
+"3,4-dihydrocoumarin"	119-84-6	148.16	0.97	-1.694	-2.083	25	272	39.7	0	19.85	1	1	0	1	Pos	Training
+Propyl gallate	121-79-9	212.20	1.80	-1.783	-6.389	130	363.6	41.1	59.5	51.5	1	1	1	0	Pos	Training
+?-Amylcinnamicaldehyde	122-40-7	202.30	4.33	-1.763	-3.345	80	304.8	3.9	0.6	2.25	0	1	0	1	Pos	Training
+Benzylidene acetone	122-57-6	146.19	2.07	-2.305	-1.907	42	261	0.1	93.2	46.7	1	1	1	0	Pos	Training
+"1,4-Dihydroquinone  "	123-31-9	110.11	0.59	-0.184	-4.620	172.3	287	51.1	83.3	67.2	1	1	1	1	Pos	Training
+"5-Methyl-2,3-hexanedione (Acetyl isovaleryl)"	13706-86-0	128.17	0.06	1.917	0.939	-16.7	138	7.5	25.8	16.65	1	1	1	1	Pos	Training
+Tetramethylthiuram disulfide	137-26-8	240.44	1.73	-3.904	-4.763	155.6	129	6.9	99.5	53.2	1	1	1	1	Pos	Training
+Diethyl maleate	141-05-9	172.18	2.20	-1.090	-0.979	-9	223	82.1	99.9	91	1	1	1	1	Pos	Training
+2-Mercaptobenzothiazole	149-30-4	167.25	2.42	-3.182	-3.334	181	338.8	3.2	99.9	51.55	1	1	1	1	Pos	Training
+Oxazolone	15646-46-5	217.22	1.51	-2.071	-5.195	120	365.7	47	75.5	61.3	1	1	1	1	Pos	Training
+Bisphenol A-diglycidyl ether	1675-54-3	340.42	3.84	-5.687	-6.959	12	421	1.1	42.5	21.8	1	1	1	1	Pos	Training
+3-Propylidenephthalide	17369-59-4	174.20	2.03	-2.205	-3.524	66.8	318.2	30.6	14.3	11.9	1	1	0	1	Pos	Training
+Bandrowski’s base	20048-27-5	318.38	0.74	-1.144	-10.365	224.8	526.1	4.2	87.5	45.85	1	1	1	1	Pos	Training
+Perillaldehyde	2111-75-3	150.22	3.34	-2.971	-1.334	218.8	240	13.8	31.9	22.85	1	1	1	1	Pos	Training
+Butyl glycidyl ether	2426-08-6	130.19	0.63	-0.814	0.505	-31	165	11.8	67.3	39.6	1	0	1	1	Pos	Training
+"1,2-Benzisothiazolin-3-one"	2634-33-5	151.19	0.64	-0.849	-4.590	121.6	339.5	9.7	97.7	53.7	1	1	1	1	Pos	Training
+"1,2-Dibromo-2,4-dicyanobutane"	35691-65-7	265.93	1.63	-2.311	-4.299	52	327.8	28.5	99.5	52.1	1	1	1	0	Pos	Training
+Streptomycin sulfate	3810-74-0	581.57	-3.61	-1.48	-11.48	123.57	326.63	4.5	0	2.25	0	0	0	1	Pos	Training
+Imidazolidinyl urea	39236-46-9	388.29	-8.28	0.411	-28.470	240.5	932.2	15.2	54.1	29.7	1	1	1	0	Pos	Training
+Formaldehyde	50-00-0	30.03	0.35	1.121	5.890	-148.5	-19.1	2.4	44.7	24.45	1	1	1	1	Pos	Training
+Abietic acid	514-10-3	302.46	6.46	-3.796	-6.496	173.5	394.9	16.3	99.9	58.1	1	0	1	0	Pos	Training
+"2-Nitro-1,4-phenylenediamine"	5307-14-2	153.14	0.53	-0.772	-4.252	140	134	50	50	50	1	1	1	1	Pos	Training
+Kathon CG	55965-84-9	132.30	1.38	-1.61	-1.2218	91.85	229	4.5	99.1	52.1	1	1	1	1	Pos	Training
+Penicillin G 	61-33-6	334.39	1.83	-3.223	-11.593	110	565.3	0	14.3	7.15	1	1	0	0	Pos	Training
+Aniline	62-53-3	93.13	0.90	-0.413	-0.310	-6	184.1	2.4	0.3	0.7	0	1	1	1	Pos	Training
+Sulfanilamide	63-74-1	172.21	-0.62	-1.361	-5.137	165.5	342	-4.8	1.9	-1.9	0	0	0	0	Pos	Training
+trans-2-Hexenal	6728-26-3	98.15	1.58	-1.271	0.820	-55.6	146.5	3.6	97.9	50.75	1	1	1	1	Pos	Training
+Methyl methacrylate	80-62-6	100.12	1.38	-0.824	1.586	-48	100.5	5.3	42.1	23.7	1	1	1	1	Pos	Training
+2-Hydroxyethyl acrylate	818-61-1	116.12	-0.21	0.935	-1.282	-15.9	191	88.9	92.6	90.75	1	1	1	0	Pos	Training
+Phthalic anhydride	85-44-9	148.12	1.60	-1.378	-3.287	130.8	295	75	1.9	37.5	1	0	0	1	Pos	Training
+Diphenylcyclopropenone	886-38-4	"
+206.25"	3.25	-3.485	-2.625	119	296	0	98.8	50.7	1	1	1	1	Pos	Training
+2-Hydroxypropyl methacrylate	923-26-2	144.17	0.97	-0.572	-1.143	70	205	0	58.4	25.3	1	0	1	1	Pos	Training
+Phenyl benzoate	93-99-2	198.22	3.59	-3.713	-2.770	71	314	2.2	64.9	33.55	1	1	0	1	Pos	Training
+Benzocaine	94-09-7	165.19	1.86	-2.101	-3.585	92	310	6.1	14.6	9.4	1	1	1	0	Pos	Training
+2-Aminophenol	95-55-6	109.13	0.62	-0.737	-2.020	174	153	18.1	96.2	57.15	1	1	1	1	Pos	Training
+"2,4-Dinitrochlorobenzene "	97-00-7	202.55	2.17	-4.404	-4.071	53	315	29.3	100	67.4	1	1	1	1	Pos	Training
+Eugenol 	97-53-0	164.20	2.27	-1.562	-1.646	-9.1	253.2	9	18.8	17.4	1	1	0	1	Pos	Training
+Ethylene glycol dimethacrylate	97-90-5	198.22	2.21	-2.533	-0.726	-75	80.7	20.5	90.3	56.4	1	1	1	1	Pos	Training
+Vanillin	121-33-5	152.15	1.21	-1.141	-3.927	81.5	285	9.9	0.9	3.9	1	0	1	1	Neg	Test
+p-Aminobenzoic acid	150-13-0	137.14	0.83	-1.351	-3.556	188.5	307.7	0.25	4.2	2.3	0	0	0	0	Neg	Test
+Propylene glycol	57-55-6	76.09	-0.92	1.119	-0.889	-60	187.6	0.6	-0.9	-0.3	0	0	0	0	Neg	Test
+Benzoic acid	65-85-0	212.20	1.87	-1.655	-3.155	122.4	249.2	39.9	19.1	31.2	1	0	0	0	Neg	Test
+Tartaric acid	87-69-4	150.09	-1.00	0.589	-6.830	169	179.1	-0.4	5.2	2.4	0	0	0	0	Neg	Test
+Propylparaben	94-13-3	180.20	3.04	-2.557	-3.256	97	301	-0.7	3.3	1.3	0	1	1	0	Neg	Test
+Hexyl cinnamic aldehyde	101-86-0	216.32	4.82	-4.896	-3.273	39.2	318.7	-0.45	6.2	2.9	0	0	1	1	Neg	Test
+Pyridine	110-86-1	79.10	0.65	1.102	1.318	-41.6	115.2	-1.1	0.7	-0.2	0	1	0	0	Neg	Training
+Pentachlorophenol	87-86-5	226.34	5.12	-4.279	-3.959	174	309.5	14.5	0	7.25	1	1	0	1	Neg	Training
+Ethylenediamine	107-15-3	60.10	-2.04	1.221	1.079	11.1	117	0.7	18.6	9.65	1	1	1	1	Pos	Test
+Resorcinol 	108-46-3	110.11	0.80	0.814	-3.311	111	280	0	1.6	0.8	0	1	0	1	Pos	Test
+Lauryl gallate	1166-52-5	338.44	6.21	-6.392	-8.991	96.5	468	8.7	90.9	49.8	1	1	1	0	Pos	Test
+Phenylacetaldehyde                  	122-78-1	120.15	1.78	-1.599	-0.407	33.5	195	22.6	60.7	41.65	1	1	1	1	Pos	Test
+Methylisothiazolinone	2682-20-4	115.15	-0.83	0.669	2.491	47.5	237.8	0	97.9	48.95	1	1	1	0	Pos	Test
+Citral	5392-40-5	152.23	3.45	-2.055	-1.040	-10	227	12.1	82.1	47.3	1	1	1	1	Pos	Test
+Trimellitic anhydride 	552-30-7	192.13	1.95	-2.267	-5.006	162	390	43.7	0	21.85	1	1	0	1	Pos	Test
+3-Aminophenol	591-27-5	109.13	0.21	-0.607	-2.020	123	164	1.2	8.2	3.9	0	1	0	1	Pos	Test
+"2, 5-Toluenediamine sulfate"	615-50-9	156.252	0.74	-1.492	-10.064	71.44	122	15	78.4	46.7	1	1	1	1	Pos	Test
+Linalool	78-70-6	154.25	2.97	-1.987	-0.796	7.38	197	7.9	0	3.95	0	1	0	1	Pos	Test
+Lilial	80-54-6	204.30	4.36	-3.792	-2.446	10.54	279.5	0.7	14	7.35	1	1	0	1	Pos	Test
+Coumarin	91-64-5	146.14	1.39	-1.886	-3.009	71	301.7	0	1	0.5	0	0	1	0	Pos	Test
+Benzoyl peroxide	94-36-0	242.23	3.46	-4.425	-4.151	105	328.6	81.3	100	90.65	1	0	0	0	Pos	Test
+Isoeugenol	97-54-1	164.20	3.04	-2.664	-1.922	-10	266	15.3	94.1	55	1	0	1	1	Pos	Test
+3 and 4-(4-Hydroxy-4-methylpentyl)-3-cyclohexane-1-carboxaldehyde [Lyral HMPCC]	31906-04-4	210.32	3.32	-3.057	-4.067	-30	307.1	3.4	39.4	21.4	1	1	1	1	Pos	Training
